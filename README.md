@@ -2,7 +2,7 @@
 
 A personal travel journal for your phone: a globe / flat world map with pins for every place you've been, memories as postcards, photos & videos, travel buddies, wishlist, state & district fills, yearly Wrapped and zip backups.
 
-**Install:** open https://kartik1610.github.io/atlas/ on your phone
+**Install:** open https://kartik1610.github.io/Atlas/ on your phone
 - Android (Chrome): ⋮ → Install app
 - iPhone (Safari): Share → Add to Home Screen
 
